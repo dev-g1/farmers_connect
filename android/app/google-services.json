@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "104448841945",
+    "project_id": "flutter-flash-app-184ab",
+    "storage_bucket": "flutter-flash-app-184ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104448841945:android:df6e85e061797c03c1c6c8",
+        "android_client_info": {
+          "package_name": "com.example.farmers_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104448841945-e6bd7015saj8mib6bp6tsl3tsgh5l6qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXfWU3wetYyOwmH6t8cnLBYq-wxndAwqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104448841945-e6bd7015saj8mib6bp6tsl3tsgh5l6qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104448841945:android:b39e7335d1f22436c1c6c8",
+        "android_client_info": {
+          "package_name": "com.example.my_notepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104448841945-e6bd7015saj8mib6bp6tsl3tsgh5l6qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXfWU3wetYyOwmH6t8cnLBYq-wxndAwqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104448841945-e6bd7015saj8mib6bp6tsl3tsgh5l6qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
